@@ -1,6 +1,6 @@
 {
   "name": "nigeria-states-lgas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A vanilla JavaScript utility project that lists all the states of Nigeria, senatorial zones and their local governments",
   "main": "index.js",
   "scripts": {
